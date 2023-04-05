@@ -1,0 +1,36 @@
+{
+  "result": {
+    "status": 0,
+    "msg": "No Data.",
+    "message": "there is no data found...!!",
+    "version": "1.0",
+    "version_desc": "1.We Fix Some Crash in Application\r\n2.To Share or Delete Multi Item please Long Press in All WP DATA Section",
+    "Update_btn": "Update",
+    "Update_Title": "Update This App",
+    "Update_Package": "",
+    "Update_Cancelable": "0",
+    "Prmotion_link": "",
+    "live_video": "https://ujyuy.com",
+    "appadmobinfo": {
+      "Ads_bannerid": " ",
+      "Ads_interid": " ",
+      "Ads_interspash": " ",
+      "Ads_native": " ",
+      "Ads_opendads": " ",
+      "Ads_reward": ""
+    },
+    "appfbinfo": {
+      "fbAds_bannerid": "",
+      "fbAds_interid": "",
+      "fbAds_interspash": "22",
+      "fbAds_native": "22",
+      "fbAds_nativebnr": "",
+      "fbAds_reward": ""
+    },
+    "qurekainfo": {
+      "qureka_single": "",
+      "qureka_bnr": "",
+      "qureka_link": ""
+    }
+  }
+}
